@@ -2,6 +2,3 @@
 # uses this file as the main entry point of the application.
 
 import Dotparserpkg/lexer
-
-when isMainModule:
-  echo (getWelcomeMessage())
