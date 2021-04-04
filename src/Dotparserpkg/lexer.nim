@@ -72,5 +72,3 @@ proc get_splitted*(input: string): Lexer =
         #echo splitted
   return lexer
 
-
-proc getWelcomeMessage*(): string = "Hello, World!"
